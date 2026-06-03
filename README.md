@@ -79,7 +79,11 @@ Derived aggregate tables and spatial outputs needed to verify the analysis are i
 
 ## Citation and Archiving
 
-The repository includes `CITATION.cff` and `.zenodo.json` for release archiving. After the GitHub repository is connected to Zenodo, a tagged release can be archived and assigned a DOI.
+The replication package is archived on Zenodo:
+
+```text
+https://doi.org/10.5281/zenodo.20519724
+```
 
 GitHub repository:
 
@@ -90,7 +94,7 @@ https://github.com/jorgeiv500/health-place-colombia-accessibility-replication
 Current release tag:
 
 ```text
-v0.1.0
+v0.1.1
 ```
 
 ## Authors

@@ -23,6 +23,17 @@
   ],
   "license": "cc-by-4.0",
   "access_right": "open",
-  "related_identifiers": [],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.20519724",
+      "relation": "isIdenticalTo",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://github.com/jorgeiv500/health-place-colombia-accessibility-replication/releases/tag/v0.1.1",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
   "communities": []
 }
