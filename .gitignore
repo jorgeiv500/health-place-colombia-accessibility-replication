@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.toc
+
+# macOS
+.DS_Store
+
+# Large/raw local cache excluded from GitHub
+data_raw/**/*.csv
+data_raw/**/*.xlsx
+data_raw/**/*.zip
+data_raw/**/*.pbf
+data_raw/**/*.geojson
+data_raw/**/*.gpkg
+!data_raw/_metadata/**
+
+# Generated archives
+*.zip
+*.tar
+*.tar.gz
+
+# Local rendered review screenshots
+reports/*visual*/
+reports/figure_page_review*/
+reports/pdf_visual_check/

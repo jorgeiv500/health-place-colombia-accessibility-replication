@@ -1,0 +1,9 @@
+| variable | brecha_spatial_z | need_proxy_z | access_spatial_z | ipm_total_pct | sivigila_intento_confirmados_per_100k | e2sfca_sedes_all_120min | hansen_sedes_all_hl60 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| brecha_spatial_z | 1.0 | 0.5293 | -0.7896 | 0.5836 | 0.1247 | -0.7896 | -0.5062 |
+| need_proxy_z | 0.5293 | 1.0 | 0.0162 | 0.5748 | 0.6743 | 0.0162 | -0.1948 |
+| access_spatial_z | -0.7896 | 0.0162 | 1.0 | -0.3053 | 0.286 | 1.0 | 0.4629 |
+| ipm_total_pct | 0.5836 | 0.5748 | -0.3053 | 1.0 | -0.0685 | -0.3053 | -0.4507 |
+| sivigila_intento_confirmados_per_100k | 0.1247 | 0.6743 | 0.286 | -0.0685 | 1.0 | 0.286 | 0.1837 |
+| e2sfca_sedes_all_120min | -0.7896 | 0.0162 | 1.0 | -0.3053 | 0.286 | 1.0 | 0.4629 |
+| hansen_sedes_all_hl60 | -0.5062 | -0.1948 | 0.4629 | -0.4507 | 0.1837 | 0.4629 | 1.0 |

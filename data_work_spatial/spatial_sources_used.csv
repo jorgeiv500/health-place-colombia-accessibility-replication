@@ -1,0 +1,5 @@
+source_id,role,local_path,url
+dane_mgn_municipio_2025_geojson,municipal geometry and centroids,data_raw/dane/MGN2025_municipio_317.geojson,https://geoportal.dane.gov.co/mparcgis/rest/services/MGN2025/Serv_CapasMGN_2025/FeatureServer/317
+reps_sedes_c36g_9fc2,national municipal supply counts,data_raw/minsalud_reps/reps_sedes_c36g_9fc2.csv,https://www.datos.gov.co/resource/c36g-9fc2
+reps_georreferenciado_7r2w_27jm,small geocoded mental-health service support view,data_raw/minsalud_reps/reps_georreferenciado_salud_mental_7r2w_27jm.csv,https://www.datos.gov.co/resource/7r2w-27jm
+osm_colombia_latest_pbf,downloaded routing source; not yet used because OSRM/OSMnx unavailable,data_raw/osm/colombia-latest.osm.pbf,https://download.geofabrik.de/south-america/colombia-latest.osm.pbf

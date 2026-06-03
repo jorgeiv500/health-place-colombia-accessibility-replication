@@ -1,0 +1,7 @@
+{
+  "osrm-extract": true,
+  "osrm-contract": true,
+  "osrm-routed": true,
+  "osmnx_python": false,
+  "routing_mode": "great_circle_detour_proxy_osrm_installed_not_prepared"
+}

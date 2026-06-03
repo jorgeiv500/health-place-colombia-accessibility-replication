@@ -1,0 +1,785 @@
+departamento,year,ipm_domain,ipm_pct,cod_dpto
+Antioquia,2018,Cabeceras,9.6,05
+Antioquia,2018,Centros poblados  y rural disperso,35.4,05
+Antioquia,2018,Total,15.3,05
+Antioquia,2019,Cabeceras,10.2,05
+Antioquia,2019,Centros poblados  y rural disperso,35.9,05
+Antioquia,2019,Total,15.7,05
+Antioquia,2020,Cabeceras,10.2,05
+Antioquia,2020,Centros poblados  y rural disperso,32.7,05
+Antioquia,2020,Total,14.9,05
+Antioquia,2021,Cabeceras,10.8,05
+Antioquia,2021,Centros poblados  y rural disperso,28.0,05
+Antioquia,2021,Total,14.3,05
+Antioquia,2022,Cabeceras,7.0,05
+Antioquia,2022,Centros poblados  y rural disperso,25.8,05
+Antioquia,2022,Total,10.7,05
+Antioquia,2023,Cabeceras,5.9,05
+Antioquia,2023,Centros poblados  y rural disperso,24.2,05
+Antioquia,2023,Total,9.5,05
+Antioquia,2024,Cabeceras,8.4,05
+Antioquia,2024,Centros poblados  y rural disperso,21.2,05
+Antioquia,2024,Total,10.9,05
+Antioquia,2025,Cabeceras,6.2,05
+Antioquia,2025,Centros poblados  y rural disperso,23.2,05
+Antioquia,2025,Total,9.5,05
+Atlántico,2018,Cabeceras,20.0,08
+Atlántico,2018,Centros poblados  y rural disperso,39.5,08
+Atlántico,2018,Total,21.1,08
+Atlántico,2019,Cabeceras,13.7,08
+Atlántico,2019,Centros poblados  y rural disperso,38.0,08
+Atlántico,2019,Total,14.9,08
+Atlántico,2020,Cabeceras,13.1,08
+Atlántico,2020,Centros poblados  y rural disperso,33.9,08
+Atlántico,2020,Total,14.1,08
+Atlántico,2021,Cabeceras,14.8,08
+Atlántico,2021,Centros poblados  y rural disperso,29.6,08
+Atlántico,2021,Total,15.5,08
+Atlántico,2022,Cabeceras,9.4,08
+Atlántico,2022,Centros poblados  y rural disperso,25.0,08
+Atlántico,2022,Total,10.2,08
+Atlántico,2023,Cabeceras,11.3,08
+Atlántico,2023,Centros poblados  y rural disperso,25.7,08
+Atlántico,2023,Total,12.0,08
+Atlántico,2024,Cabeceras,8.6,08
+Atlántico,2024,Centros poblados  y rural disperso,26.4,08
+Atlántico,2024,Total,9.5,08
+Atlántico,2025,Cabeceras,7.3,08
+Atlántico,2025,Centros poblados  y rural disperso,25.9,08
+Atlántico,2025,Total,8.2,08
+Bogotá D.C.,2018,Cabeceras,4.1,11
+Bogotá D.C.,2018,Centros poblados  y rural disperso,19.2,11
+Bogotá D.C.,2018,Total,4.1,11
+Bogotá D.C.,2019,Cabeceras,7.1,11
+Bogotá D.C.,2019,Centros poblados  y rural disperso,16.5,11
+Bogotá D.C.,2019,Total,7.1,11
+Bogotá D.C.,2020,Cabeceras,7.5,11
+Bogotá D.C.,2020,Centros poblados  y rural disperso,15.4,11
+Bogotá D.C.,2020,Total,7.5,11
+Bogotá D.C.,2021,Cabeceras,5.7,11
+Bogotá D.C.,2021,Centros poblados  y rural disperso,19.4,11
+Bogotá D.C.,2021,Total,5.7,11
+Bogotá D.C.,2022,Cabeceras,3.8,11
+Bogotá D.C.,2022,Centros poblados  y rural disperso,10.1,11
+Bogotá D.C.,2022,Total,3.8,11
+Bogotá D.C.,2023,Cabeceras,3.6,11
+Bogotá D.C.,2023,Centros poblados  y rural disperso,11.7,11
+Bogotá D.C.,2023,Total,3.6,11
+Bogotá D.C.,2024,Cabeceras,5.4,11
+Bogotá D.C.,2024,Centros poblados  y rural disperso,10.8,11
+Bogotá D.C.,2024,Total,5.4,11
+Bogotá D.C.,2025,Cabeceras,2.2,11
+Bogotá D.C.,2025,Centros poblados  y rural disperso,5.0,11
+Bogotá D.C.,2025,Total,2.2,11
+Bolívar,2018,Cabeceras,25.6,13
+Bolívar,2018,Centros poblados  y rural disperso,50.5,13
+Bolívar,2018,Total,31.9,13
+Bolívar,2019,Cabeceras,21.4,13
+Bolívar,2019,Centros poblados  y rural disperso,42.9,13
+Bolívar,2019,Total,26.9,13
+Bolívar,2020,Cabeceras,21.5,13
+Bolívar,2020,Centros poblados  y rural disperso,47.1,13
+Bolívar,2020,Total,28.1,13
+Bolívar,2021,Cabeceras,21.5,13
+Bolívar,2021,Centros poblados  y rural disperso,41.8,13
+Bolívar,2021,Total,26.8,13
+Bolívar,2022,Cabeceras,13.9,13
+Bolívar,2022,Centros poblados  y rural disperso,34.6,13
+Bolívar,2022,Total,19.4,13
+Bolívar,2023,Cabeceras,14.9,13
+Bolívar,2023,Centros poblados  y rural disperso,28.0,13
+Bolívar,2023,Total,18.4,13
+Bolívar,2024,Cabeceras,13.5,13
+Bolívar,2024,Centros poblados  y rural disperso,21.5,13
+Bolívar,2024,Total,15.6,13
+Bolívar,2025,Cabeceras,13.8,13
+Bolívar,2025,Centros poblados  y rural disperso,25.7,13
+Bolívar,2025,Total,17.0,13
+Boyacá,2018,Cabeceras,7.9,15
+Boyacá,2018,Centros poblados  y rural disperso,28.5,15
+Boyacá,2018,Total,16.5,15
+Boyacá,2019,Cabeceras,5.0,15
+Boyacá,2019,Centros poblados  y rural disperso,23.9,15
+Boyacá,2019,Total,12.8,15
+Boyacá,2020,Cabeceras,4.3,15
+Boyacá,2020,Centros poblados  y rural disperso,22.4,15
+Boyacá,2020,Total,11.7,15
+Boyacá,2021,Cabeceras,5.4,15
+Boyacá,2021,Centros poblados  y rural disperso,19.1,15
+Boyacá,2021,Total,10.9,15
+Boyacá,2022,Cabeceras,6.1,15
+Boyacá,2022,Centros poblados  y rural disperso,15.1,15
+Boyacá,2022,Total,9.6,15
+Boyacá,2023,Cabeceras,5.4,15
+Boyacá,2023,Centros poblados  y rural disperso,17.0,15
+Boyacá,2023,Total,9.9,15
+Boyacá,2024,Cabeceras,3.7,15
+Boyacá,2024,Centros poblados  y rural disperso,12.1,15
+Boyacá,2024,Total,6.9,15
+Boyacá,2025,Cabeceras,4.0,15
+Boyacá,2025,Centros poblados  y rural disperso,10.3,15
+Boyacá,2025,Total,6.4,15
+Caldas,2018,Cabeceras,10.1,17
+Caldas,2018,Centros poblados  y rural disperso,24.6,17
+Caldas,2018,Total,13.8,17
+Caldas,2019,Cabeceras,10.4,17
+Caldas,2019,Centros poblados  y rural disperso,25.8,17
+Caldas,2019,Total,14.3,17
+Caldas,2020,Cabeceras,8.7,17
+Caldas,2020,Centros poblados  y rural disperso,32.8,17
+Caldas,2020,Total,14.5,17
+Caldas,2021,Cabeceras,8.7,17
+Caldas,2021,Centros poblados  y rural disperso,20.4,17
+Caldas,2021,Total,11.5,17
+Caldas,2022,Cabeceras,7.8,17
+Caldas,2022,Centros poblados  y rural disperso,19.5,17
+Caldas,2022,Total,10.5,17
+Caldas,2023,Cabeceras,4.8,17
+Caldas,2023,Centros poblados  y rural disperso,16.3,17
+Caldas,2023,Total,7.4,17
+Caldas,2024,Cabeceras,6.0,17
+Caldas,2024,Centros poblados  y rural disperso,20.3,17
+Caldas,2024,Total,9.2,17
+Caldas,2025,Cabeceras,4.7,17
+Caldas,2025,Centros poblados  y rural disperso,18.9,17
+Caldas,2025,Total,7.9,17
+Caquetá,2018,Cabeceras,20.5,18
+Caquetá,2018,Centros poblados  y rural disperso,38.6,18
+Caquetá,2018,Total,26.9,18
+Caquetá,2019,Cabeceras,19.2,18
+Caquetá,2019,Centros poblados  y rural disperso,37.7,18
+Caquetá,2019,Total,25.7,18
+Caquetá,2020,Cabeceras,18.4,18
+Caquetá,2020,Centros poblados  y rural disperso,40.5,18
+Caquetá,2020,Total,26.1,18
+Caquetá,2021,Cabeceras,15.9,18
+Caquetá,2021,Centros poblados  y rural disperso,36.6,18
+Caquetá,2021,Total,23.1,18
+Caquetá,2022,Cabeceras,16.4,18
+Caquetá,2022,Centros poblados  y rural disperso,25.6,18
+Caquetá,2022,Total,19.6,18
+Caquetá,2023,Cabeceras,11.3,18
+Caquetá,2023,Centros poblados  y rural disperso,28.6,18
+Caquetá,2023,Total,17.2,18
+Caquetá,2024,Cabeceras,8.6,18
+Caquetá,2024,Centros poblados  y rural disperso,24.2,18
+Caquetá,2024,Total,13.9,18
+Caquetá,2025,Cabeceras,10.0,18
+Caquetá,2025,Centros poblados  y rural disperso,24.8,18
+Caquetá,2025,Total,15.0,18
+Cauca,2018,Cabeceras,13.2,19
+Cauca,2018,Centros poblados  y rural disperso,36.2,19
+Cauca,2018,Total,27.7,19
+Cauca,2019,Cabeceras,10.6,19
+Cauca,2019,Centros poblados  y rural disperso,31.8,19
+Cauca,2019,Total,24.0,19
+Cauca,2020,Cabeceras,12.3,19
+Cauca,2020,Centros poblados  y rural disperso,37.4,19
+Cauca,2020,Total,28.2,19
+Cauca,2021,Cabeceras,10.5,19
+Cauca,2021,Centros poblados  y rural disperso,23.2,19
+Cauca,2021,Total,18.6,19
+Cauca,2022,Cabeceras,8.8,19
+Cauca,2022,Centros poblados  y rural disperso,23.6,19
+Cauca,2022,Total,18.3,19
+Cauca,2023,Cabeceras,6.8,19
+Cauca,2023,Centros poblados  y rural disperso,20.9,19
+Cauca,2023,Total,15.8,19
+Cauca,2024,Cabeceras,7.5,19
+Cauca,2024,Centros poblados  y rural disperso,17.6,19
+Cauca,2024,Total,14.0,19
+Cauca,2025,Cabeceras,7.1,19
+Cauca,2025,Centros poblados  y rural disperso,16.1,19
+Cauca,2025,Total,13.0,19
+Cesar,2018,Cabeceras,26.5,20
+Cesar,2018,Centros poblados  y rural disperso,47.6,20
+Cesar,2018,Total,31.7,20
+Cesar,2019,Cabeceras,20.5,20
+Cesar,2019,Centros poblados  y rural disperso,40.7,20
+Cesar,2019,Total,25.5,20
+Cesar,2020,Cabeceras,20.7,20
+Cesar,2020,Centros poblados  y rural disperso,46.8,20
+Cesar,2020,Total,27.2,20
+Cesar,2021,Cabeceras,20.8,20
+Cesar,2021,Centros poblados  y rural disperso,39.1,20
+Cesar,2021,Total,25.3,20
+Cesar,2022,Cabeceras,14.2,20
+Cesar,2022,Centros poblados  y rural disperso,34.1,20
+Cesar,2022,Total,19.1,20
+Cesar,2023,Cabeceras,13.2,20
+Cesar,2023,Centros poblados  y rural disperso,30.9,20
+Cesar,2023,Total,17.7,20
+Cesar,2024,Cabeceras,10.7,20
+Cesar,2024,Centros poblados  y rural disperso,21.3,20
+Cesar,2024,Total,13.4,20
+Cesar,2025,Cabeceras,9.8,20
+Cesar,2025,Centros poblados  y rural disperso,29.6,20
+Cesar,2025,Total,14.8,20
+Córdoba,2018,Cabeceras,21.1,23
+Córdoba,2018,Centros poblados  y rural disperso,49.2,23
+Córdoba,2018,Total,34.4,23
+Córdoba,2019,Cabeceras,23.2,23
+Córdoba,2019,Centros poblados  y rural disperso,47.2,23
+Córdoba,2019,Total,34.7,23
+Córdoba,2020,Cabeceras,21.8,23
+Córdoba,2020,Centros poblados  y rural disperso,42.6,23
+Córdoba,2020,Total,31.8,23
+Córdoba,2021,Cabeceras,14.1,23
+Córdoba,2021,Centros poblados  y rural disperso,40.6,23
+Córdoba,2021,Total,26.9,23
+Córdoba,2022,Cabeceras,16.5,23
+Córdoba,2022,Centros poblados  y rural disperso,38.0,23
+Córdoba,2022,Total,26.9,23
+Córdoba,2023,Cabeceras,12.6,23
+Córdoba,2023,Centros poblados  y rural disperso,30.6,23
+Córdoba,2023,Total,21.4,23
+Córdoba,2024,Cabeceras,13.0,23
+Córdoba,2024,Centros poblados  y rural disperso,38.9,23
+Córdoba,2024,Total,25.7,23
+Córdoba,2025,Cabeceras,10.1,23
+Córdoba,2025,Centros poblados  y rural disperso,29.7,23
+Córdoba,2025,Total,19.8,23
+Cundinamarca,2018,Cabeceras,6.8,25
+Cundinamarca,2018,Centros poblados  y rural disperso,20.0,25
+Cundinamarca,2018,Total,10.5,25
+Cundinamarca,2019,Cabeceras,9.4,25
+Cundinamarca,2019,Centros poblados  y rural disperso,20.5,25
+Cundinamarca,2019,Total,12.3,25
+Cundinamarca,2020,Cabeceras,9.4,25
+Cundinamarca,2020,Centros poblados  y rural disperso,17.1,25
+Cundinamarca,2020,Total,11.4,25
+Cundinamarca,2021,Cabeceras,8.1,25
+Cundinamarca,2021,Centros poblados  y rural disperso,13.3,25
+Cundinamarca,2021,Total,9.4,25
+Cundinamarca,2022,Cabeceras,6.3,25
+Cundinamarca,2022,Centros poblados  y rural disperso,10.4,25
+Cundinamarca,2022,Total,7.3,25
+Cundinamarca,2023,Cabeceras,7.8,25
+Cundinamarca,2023,Centros poblados  y rural disperso,7.1,25
+Cundinamarca,2023,Total,7.6,25
+Cundinamarca,2024,Cabeceras,6.8,25
+Cundinamarca,2024,Centros poblados  y rural disperso,9.4,25
+Cundinamarca,2024,Total,7.4,25
+Cundinamarca,2025,Cabeceras,3.2,25
+Cundinamarca,2025,Centros poblados  y rural disperso,7.3,25
+Cundinamarca,2025,Total,4.1,25
+Chocó,2018,Cabeceras,29.4,27
+Chocó,2018,Centros poblados  y rural disperso,60.3,27
+Chocó,2018,Total,46.3,27
+Chocó,2019,Cabeceras,26.7,27
+Chocó,2019,Centros poblados  y rural disperso,55.1,27
+Chocó,2019,Total,42.3,27
+Chocó,2020,Cabeceras,33.5,27
+Chocó,2020,Centros poblados  y rural disperso,61.5,27
+Chocó,2020,Total,49.0,27
+Chocó,2021,Cabeceras,25.3,27
+Chocó,2021,Centros poblados  y rural disperso,44.4,27
+Chocó,2021,Total,36.0,27
+Chocó,2022,Cabeceras,25.2,27
+Chocó,2022,Centros poblados  y rural disperso,45.8,27
+Chocó,2022,Total,36.8,27
+Chocó,2023,Cabeceras,25.5,27
+Chocó,2023,Centros poblados  y rural disperso,46.4,27
+Chocó,2023,Total,37.4,27
+Chocó,2024,Cabeceras,18.8,27
+Chocó,2024,Centros poblados  y rural disperso,45.2,27
+Chocó,2024,Total,33.9,27
+Chocó,2025,Cabeceras,16.3,27
+Chocó,2025,Centros poblados  y rural disperso,41.5,27
+Chocó,2025,Total,30.8,27
+Huila,2018,Cabeceras,12.1,41
+Huila,2018,Centros poblados  y rural disperso,27.0,41
+Huila,2018,Total,18.0,41
+Huila,2019,Cabeceras,12.5,41
+Huila,2019,Centros poblados  y rural disperso,27.1,41
+Huila,2019,Total,18.3,41
+Huila,2020,Cabeceras,13.1,41
+Huila,2020,Centros poblados  y rural disperso,39.0,41
+Huila,2020,Total,23.4,41
+Huila,2021,Cabeceras,11.8,41
+Huila,2021,Centros poblados  y rural disperso,26.1,41
+Huila,2021,Total,17.5,41
+Huila,2022,Cabeceras,9.0,41
+Huila,2022,Centros poblados  y rural disperso,19.7,41
+Huila,2022,Total,13.3,41
+Huila,2023,Cabeceras,7.2,41
+Huila,2023,Centros poblados  y rural disperso,19.1,41
+Huila,2023,Total,11.9,41
+Huila,2024,Cabeceras,7.6,41
+Huila,2024,Centros poblados  y rural disperso,15.8,41
+Huila,2024,Total,10.9,41
+Huila,2025,Cabeceras,6.3,41
+Huila,2025,Centros poblados  y rural disperso,14.7,41
+Huila,2025,Total,9.7,41
+La Guajira,2018,Cabeceras,31.3,44
+La Guajira,2018,Centros poblados  y rural disperso,72.9,44
+La Guajira,2018,Total,53.3,44
+La Guajira,2019,Cabeceras,28.1,44
+La Guajira,2019,Centros poblados  y rural disperso,68.2,44
+La Guajira,2019,Total,48.8,44
+La Guajira,2020,Cabeceras,30.1,44
+La Guajira,2020,Centros poblados  y rural disperso,72.7,44
+La Guajira,2020,Total,51.7,44
+La Guajira,2021,Cabeceras,26.3,44
+La Guajira,2021,Centros poblados  y rural disperso,70.7,44
+La Guajira,2021,Total,48.7,44
+La Guajira,2022,Cabeceras,20.7,44
+La Guajira,2022,Centros poblados  y rural disperso,65.0,44
+La Guajira,2022,Total,42.9,44
+La Guajira,2023,Cabeceras,23.6,44
+La Guajira,2023,Centros poblados  y rural disperso,61.7,44
+La Guajira,2023,Total,42.6,44
+La Guajira,2024,Cabeceras,17.4,44
+La Guajira,2024,Centros poblados  y rural disperso,61.3,44
+La Guajira,2024,Total,39.3,44
+La Guajira,2025,Cabeceras,19.5,44
+La Guajira,2025,Centros poblados  y rural disperso,61.0,44
+La Guajira,2025,Total,40.1,44
+Magdalena,2018,Cabeceras,31.1,47
+Magdalena,2018,Centros poblados  y rural disperso,48.5,47
+Magdalena,2018,Total,36.4,47
+Magdalena,2019,Cabeceras,24.6,47
+Magdalena,2019,Centros poblados  y rural disperso,47.8,47
+Magdalena,2019,Total,31.6,47
+Magdalena,2020,Cabeceras,27.3,47
+Magdalena,2020,Centros poblados  y rural disperso,47.0,47
+Magdalena,2020,Total,33.4,47
+Magdalena,2021,Cabeceras,27.2,47
+Magdalena,2021,Centros poblados  y rural disperso,43.7,47
+Magdalena,2021,Total,32.4,47
+Magdalena,2022,Cabeceras,17.5,47
+Magdalena,2022,Centros poblados  y rural disperso,34.9,47
+Magdalena,2022,Total,23.0,47
+Magdalena,2023,Cabeceras,15.9,47
+Magdalena,2023,Centros poblados  y rural disperso,33.0,47
+Magdalena,2023,Total,21.4,47
+Magdalena,2024,Cabeceras,15.0,47
+Magdalena,2024,Centros poblados  y rural disperso,28.1,47
+Magdalena,2024,Total,19.2,47
+Magdalena,2025,Cabeceras,13.6,47
+Magdalena,2025,Centros poblados  y rural disperso,25.8,47
+Magdalena,2025,Total,17.6,47
+Meta,2018,Cabeceras,10.7,50
+Meta,2018,Centros poblados  y rural disperso,31.4,50
+Meta,2018,Total,15.6,50
+Meta,2019,Cabeceras,17.8,50
+Meta,2019,Centros poblados  y rural disperso,23.1,50
+Meta,2019,Total,19.1,50
+Meta,2020,Cabeceras,9.7,50
+Meta,2020,Centros poblados  y rural disperso,28.2,50
+Meta,2020,Total,14.1,50
+Meta,2021,Cabeceras,11.3,50
+Meta,2021,Centros poblados  y rural disperso,26.4,50
+Meta,2021,Total,14.9,50
+Meta,2022,Cabeceras,8.5,50
+Meta,2022,Centros poblados  y rural disperso,20.3,50
+Meta,2022,Total,11.3,50
+Meta,2023,Cabeceras,10.6,50
+Meta,2023,Centros poblados  y rural disperso,20.2,50
+Meta,2023,Total,12.9,50
+Meta,2024,Cabeceras,8.0,50
+Meta,2024,Centros poblados  y rural disperso,18.2,50
+Meta,2024,Total,10.4,50
+Meta,2025,Cabeceras,7.8,50
+Meta,2025,Centros poblados  y rural disperso,26.4,50
+Meta,2025,Total,12.3,50
+Nariño,2018,Cabeceras,22.0,52
+Nariño,2018,Centros poblados  y rural disperso,41.7,52
+Nariño,2018,Total,33.1,52
+Nariño,2019,Cabeceras,18.4,52
+Nariño,2019,Centros poblados  y rural disperso,26.9,52
+Nariño,2019,Total,23.2,52
+Nariño,2020,Cabeceras,15.0,52
+Nariño,2020,Centros poblados  y rural disperso,36.8,52
+Nariño,2020,Total,27.3,52
+Nariño,2021,Cabeceras,13.4,52
+Nariño,2021,Centros poblados  y rural disperso,28.9,52
+Nariño,2021,Total,22.1,52
+Nariño,2022,Cabeceras,12.7,52
+Nariño,2022,Centros poblados  y rural disperso,21.4,52
+Nariño,2022,Total,17.6,52
+Nariño,2023,Cabeceras,11.6,52
+Nariño,2023,Centros poblados  y rural disperso,20.5,52
+Nariño,2023,Total,16.6,52
+Nariño,2024,Cabeceras,10.0,52
+Nariño,2024,Centros poblados  y rural disperso,24.5,52
+Nariño,2024,Total,18.1,52
+Nariño,2025,Cabeceras,8.2,52
+Nariño,2025,Centros poblados  y rural disperso,17.2,52
+Nariño,2025,Total,13.2,52
+Norte de Santander,2018,Cabeceras,25.9,54
+Norte de Santander,2018,Centros poblados  y rural disperso,43.0,54
+Norte de Santander,2018,Total,29.5,54
+Norte de Santander,2019,Cabeceras,19.3,54
+Norte de Santander,2019,Centros poblados  y rural disperso,42.8,54
+Norte de Santander,2019,Total,24.2,54
+Norte de Santander,2020,Cabeceras,20.8,54
+Norte de Santander,2020,Centros poblados  y rural disperso,46.2,54
+Norte de Santander,2020,Total,26.1,54
+Norte de Santander,2021,Cabeceras,19.7,54
+Norte de Santander,2021,Centros poblados  y rural disperso,44.0,54
+Norte de Santander,2021,Total,24.7,54
+Norte de Santander,2022,Cabeceras,13.0,54
+Norte de Santander,2022,Centros poblados  y rural disperso,39.8,54
+Norte de Santander,2022,Total,18.5,54
+Norte de Santander,2023,Cabeceras,16.4,54
+Norte de Santander,2023,Centros poblados  y rural disperso,36.2,54
+Norte de Santander,2023,Total,20.5,54
+Norte de Santander,2024,Cabeceras,8.5,54
+Norte de Santander,2024,Centros poblados  y rural disperso,41.1,54
+Norte de Santander,2024,Total,15.2,54
+Norte de Santander,2025,Cabeceras,9.1,54
+Norte de Santander,2025,Centros poblados  y rural disperso,29.5,54
+Norte de Santander,2025,Total,13.3,54
+Quindío,2018,Cabeceras,13.5,63
+Quindío,2018,Centros poblados  y rural disperso,19.0,63
+Quindío,2018,Total,14.2,63
+Quindío,2019,Cabeceras,9.1,63
+Quindío,2019,Centros poblados  y rural disperso,18.0,63
+Quindío,2019,Total,10.2,63
+Quindío,2020,Cabeceras,11.8,63
+Quindío,2020,Centros poblados  y rural disperso,21.0,63
+Quindío,2020,Total,12.9,63
+Quindío,2021,Cabeceras,10.0,63
+Quindío,2021,Centros poblados  y rural disperso,17.1,63
+Quindío,2021,Total,10.9,63
+Quindío,2022,Cabeceras,9.3,63
+Quindío,2022,Centros poblados  y rural disperso,15.3,63
+Quindío,2022,Total,10.0,63
+Quindío,2023,Cabeceras,6.7,63
+Quindío,2023,Centros poblados  y rural disperso,13.5,63
+Quindío,2023,Total,7.5,63
+Quindío,2024,Cabeceras,6.8,63
+Quindío,2024,Centros poblados  y rural disperso,11.3,63
+Quindío,2024,Total,7.4,63
+Quindío,2025,Cabeceras,6.0,63
+Quindío,2025,Centros poblados  y rural disperso,11.2,63
+Quindío,2025,Total,6.7,63
+Risaralda,2018,Cabeceras,7.0,66
+Risaralda,2018,Centros poblados  y rural disperso,28.0,66
+Risaralda,2018,Total,11.6,66
+Risaralda,2019,Cabeceras,6.5,66
+Risaralda,2019,Centros poblados  y rural disperso,28.2,66
+Risaralda,2019,Total,11.1,66
+Risaralda,2020,Cabeceras,8.9,66
+Risaralda,2020,Centros poblados  y rural disperso,29.5,66
+Risaralda,2020,Total,13.1,66
+Risaralda,2021,Cabeceras,8.0,66
+Risaralda,2021,Centros poblados  y rural disperso,21.5,66
+Risaralda,2021,Total,10.7,66
+Risaralda,2022,Cabeceras,6.6,66
+Risaralda,2022,Centros poblados  y rural disperso,23.9,66
+Risaralda,2022,Total,10.0,66
+Risaralda,2023,Cabeceras,8.8,66
+Risaralda,2023,Centros poblados  y rural disperso,24.0,66
+Risaralda,2023,Total,11.8,66
+Risaralda,2024,Cabeceras,6.3,66
+Risaralda,2024,Centros poblados  y rural disperso,23.0,66
+Risaralda,2024,Total,9.5,66
+Risaralda,2025,Cabeceras,1.8,66
+Risaralda,2025,Centros poblados  y rural disperso,17.6,66
+Risaralda,2025,Total,4.9,66
+Santander,2018,Cabeceras,8.2,68
+Santander,2018,Centros poblados  y rural disperso,26.8,68
+Santander,2018,Total,12.6,68
+Santander,2019,Cabeceras,8.8,68
+Santander,2019,Centros poblados  y rural disperso,24.1,68
+Santander,2019,Total,12.4,68
+Santander,2020,Cabeceras,8.2,68
+Santander,2020,Centros poblados  y rural disperso,26.6,68
+Santander,2020,Total,12.5,68
+Santander,2021,Cabeceras,9.1,68
+Santander,2021,Centros poblados  y rural disperso,27.3,68
+Santander,2021,Total,13.3,68
+Santander,2022,Cabeceras,7.4,68
+Santander,2022,Centros poblados  y rural disperso,20.6,68
+Santander,2022,Total,10.4,68
+Santander,2023,Cabeceras,6.6,68
+Santander,2023,Centros poblados  y rural disperso,20.7,68
+Santander,2023,Total,9.8,68
+Santander,2024,Cabeceras,4.9,68
+Santander,2024,Centros poblados  y rural disperso,13.6,68
+Santander,2024,Total,6.8,68
+Santander,2025,Cabeceras,5.0,68
+Santander,2025,Centros poblados  y rural disperso,13.9,68
+Santander,2025,Total,6.9,68
+Sucre,2018,Cabeceras,32.8,70
+Sucre,2018,Centros poblados  y rural disperso,56.8,70
+Sucre,2018,Total,41.7,70
+Sucre,2019,Cabeceras,25.4,70
+Sucre,2019,Centros poblados  y rural disperso,46.6,70
+Sucre,2019,Total,33.3,70
+Sucre,2020,Cabeceras,29.5,70
+Sucre,2020,Centros poblados  y rural disperso,52.2,70
+Sucre,2020,Total,38.1,70
+Sucre,2021,Cabeceras,23.7,70
+Sucre,2021,Centros poblados  y rural disperso,41.0,70
+Sucre,2021,Total,30.3,70
+Sucre,2022,Cabeceras,19.8,70
+Sucre,2022,Centros poblados  y rural disperso,36.0,70
+Sucre,2022,Total,26.0,70
+Sucre,2023,Cabeceras,15.9,70
+Sucre,2023,Centros poblados  y rural disperso,34.6,70
+Sucre,2023,Total,23.1,70
+Sucre,2024,Cabeceras,12.4,70
+Sucre,2024,Centros poblados  y rural disperso,36.4,70
+Sucre,2024,Total,21.8,70
+Sucre,2025,Cabeceras,16.7,70
+Sucre,2025,Centros poblados  y rural disperso,38.8,70
+Sucre,2025,Total,25.4,70
+Tolima,2018,Cabeceras,11.8,73
+Tolima,2018,Centros poblados  y rural disperso,44.7,73
+Tolima,2018,Total,22.2,73
+Tolima,2019,Cabeceras,8.4,73
+Tolima,2019,Centros poblados  y rural disperso,30.0,73
+Tolima,2019,Total,15.2,73
+Tolima,2020,Cabeceras,12.1,73
+Tolima,2020,Centros poblados  y rural disperso,34.0,73
+Tolima,2020,Total,19.0,73
+Tolima,2021,Cabeceras,11.0,73
+Tolima,2021,Centros poblados  y rural disperso,29.0,73
+Tolima,2021,Total,16.6,73
+Tolima,2022,Cabeceras,5.4,73
+Tolima,2022,Centros poblados  y rural disperso,22.0,73
+Tolima,2022,Total,10.5,73
+Tolima,2023,Cabeceras,8.0,73
+Tolima,2023,Centros poblados  y rural disperso,23.9,73
+Tolima,2023,Total,12.9,73
+Tolima,2024,Cabeceras,7.2,73
+Tolima,2024,Centros poblados  y rural disperso,24.7,73
+Tolima,2024,Total,12.6,73
+Tolima,2025,Cabeceras,9.0,73
+Tolima,2025,Centros poblados  y rural disperso,19.6,73
+Tolima,2025,Total,12.2,73
+Valle del Cauca,2018,Cabeceras,12.5,76
+Valle del Cauca,2018,Centros poblados  y rural disperso,23.2,76
+Valle del Cauca,2018,Total,14.1,76
+Valle del Cauca,2019,Cabeceras,9.3,76
+Valle del Cauca,2019,Centros poblados  y rural disperso,19.4,76
+Valle del Cauca,2019,Total,10.8,76
+Valle del Cauca,2020,Cabeceras,8.9,76
+Valle del Cauca,2020,Centros poblados  y rural disperso,24.1,76
+Valle del Cauca,2020,Total,11.1,76
+Valle del Cauca,2021,Cabeceras,6.9,76
+Valle del Cauca,2021,Centros poblados  y rural disperso,18.6,76
+Valle del Cauca,2021,Total,8.6,76
+Valle del Cauca,2022,Cabeceras,8.0,76
+Valle del Cauca,2022,Centros poblados  y rural disperso,19.4,76
+Valle del Cauca,2022,Total,9.7,76
+Valle del Cauca,2023,Cabeceras,5.8,76
+Valle del Cauca,2023,Centros poblados  y rural disperso,15.8,76
+Valle del Cauca,2023,Total,7.2,76
+Valle del Cauca,2024,Cabeceras,4.6,76
+Valle del Cauca,2024,Centros poblados  y rural disperso,15.9,76
+Valle del Cauca,2024,Total,6.2,76
+Valle del Cauca,2025,Cabeceras,4.2,76
+Valle del Cauca,2025,Centros poblados  y rural disperso,9.5,76
+Valle del Cauca,2025,Total,4.9,76
+Arauca,2018,Cabeceras,24.6,81
+Arauca,2018,Centros poblados  y rural disperso,33.3,81
+Arauca,2018,Total,27.6,81
+Arauca,2019,Cabeceras,20.5,81
+Arauca,2019,Centros poblados  y rural disperso,28.6,81
+Arauca,2019,Total,23.3,81
+Arauca,2020,Cabeceras,23.4,81
+Arauca,2020,Centros poblados  y rural disperso,31.1,81
+Arauca,2020,Total,26.1,81
+Arauca,2021,Cabeceras,25.8,81
+Arauca,2021,Centros poblados  y rural disperso,28.7,81
+Arauca,2021,Total,26.8,81
+Arauca,2022,Cabeceras,22.4,81
+Arauca,2022,Centros poblados  y rural disperso,22.9,81
+Arauca,2022,Total,22.6,81
+Arauca,2023,Cabeceras,20.7,81
+Arauca,2023,Centros poblados  y rural disperso,26.6,81
+Arauca,2023,Total,22.8,81
+Arauca,2024,Cabeceras,17.4,81
+Arauca,2024,Centros poblados  y rural disperso,18.3,81
+Arauca,2024,Total,17.7,81
+Arauca,2025,Cabeceras,11.9,81
+Arauca,2025,Centros poblados  y rural disperso,14.1,81
+Arauca,2025,Total,12.7,81
+Casanare,2018,Cabeceras,14.5,85
+Casanare,2018,Centros poblados  y rural disperso,29.6,85
+Casanare,2018,Total,19.0,85
+Casanare,2019,Cabeceras,15.1,85
+Casanare,2019,Centros poblados  y rural disperso,26.2,85
+Casanare,2019,Total,18.3,85
+Casanare,2020,Cabeceras,14.3,85
+Casanare,2020,Centros poblados  y rural disperso,32.8,85
+Casanare,2020,Total,19.6,85
+Casanare,2021,Cabeceras,16.4,85
+Casanare,2021,Centros poblados  y rural disperso,27.3,85
+Casanare,2021,Total,19.5,85
+Casanare,2022,Cabeceras,10.7,85
+Casanare,2022,Centros poblados  y rural disperso,20.0,85
+Casanare,2022,Total,13.3,85
+Casanare,2023,Cabeceras,12.5,85
+Casanare,2023,Centros poblados  y rural disperso,21.4,85
+Casanare,2023,Total,15.0,85
+Casanare,2024,Cabeceras,9.1,85
+Casanare,2024,Centros poblados  y rural disperso,17.1,85
+Casanare,2024,Total,11.3,85
+Casanare,2025,Cabeceras,7.1,85
+Casanare,2025,Centros poblados  y rural disperso,13.7,85
+Casanare,2025,Total,8.9,85
+Putumayo,2018,Cabeceras,17.5,86
+Putumayo,2018,Centros poblados  y rural disperso,30.8,86
+Putumayo,2018,Total,24.1,86
+Putumayo,2019,Cabeceras,22.1,86
+Putumayo,2019,Centros poblados  y rural disperso,28.7,86
+Putumayo,2019,Total,25.4,86
+Putumayo,2020,Cabeceras,22.6,86
+Putumayo,2020,Centros poblados  y rural disperso,33.2,86
+Putumayo,2020,Total,27.8,86
+Putumayo,2021,Cabeceras,16.5,86
+Putumayo,2021,Centros poblados  y rural disperso,29.4,86
+Putumayo,2021,Total,22.8,86
+Putumayo,2022,Cabeceras,14.7,86
+Putumayo,2022,Centros poblados  y rural disperso,27.2,86
+Putumayo,2022,Total,20.8,86
+Putumayo,2023,Cabeceras,10.5,86
+Putumayo,2023,Centros poblados  y rural disperso,16.1,86
+Putumayo,2023,Total,13.2,86
+Putumayo,2024,Cabeceras,8.8,86
+Putumayo,2024,Centros poblados  y rural disperso,15.1,86
+Putumayo,2024,Total,11.8,86
+Putumayo,2025,Cabeceras,9.5,86
+Putumayo,2025,Centros poblados  y rural disperso,18.1,86
+Putumayo,2025,Total,13.6,86
+Amazonas,2018,Cabeceras,27.4,91
+Amazonas,2018,Centros poblados  y rural disperso,42.1,91
+Amazonas,2018,Total,35.4,91
+Amazonas,2019,Cabeceras,19.5,91
+Amazonas,2019,Centros poblados  y rural disperso,49.6,91
+Amazonas,2019,Total,35.6,91
+Amazonas,2020,Cabeceras,24.3,91
+Amazonas,2020,Centros poblados  y rural disperso,53.5,91
+Amazonas,2020,Total,39.0,91
+Amazonas,2021,Cabeceras,23.0,91
+Amazonas,2021,Centros poblados  y rural disperso,28.4,91
+Amazonas,2021,Total,25.7,91
+Amazonas,2022,Cabeceras,23.5,91
+Amazonas,2022,Centros poblados  y rural disperso,32.3,91
+Amazonas,2022,Total,27.9,91
+Amazonas,2023,Cabeceras,18.6,91
+Amazonas,2023,Centros poblados  y rural disperso,32.6,91
+Amazonas,2023,Total,25.4,91
+Amazonas,2024,Cabeceras,13.8,91
+Amazonas,2024,Centros poblados  y rural disperso,17.6,91
+Amazonas,2024,Total,15.6,91
+Amazonas,2025,Cabeceras,11.9,91
+Amazonas,2025,Centros poblados  y rural disperso,24.8,91
+Amazonas,2025,Total,18.1,91
+Guainía,2018,Cabeceras,44.0,94
+Guainía,2018,Centros poblados  y rural disperso,72.6,94
+Guainía,2018,Total,60.6,94
+Guainía,2019,Cabeceras,39.9,94
+Guainía,2019,Centros poblados  y rural disperso,87.7,94
+Guainía,2019,Total,67.0,94
+Guainía,2020,Cabeceras,43.1,94
+Guainía,2020,Centros poblados  y rural disperso,84.5,94
+Guainía,2020,Total,65.9,94
+Guainía,2021,Cabeceras,45.7,94
+Guainía,2021,Centros poblados  y rural disperso,67.1,94
+Guainía,2021,Total,57.3,94
+Guainía,2022,Cabeceras,39.9,94
+Guainía,2022,Centros poblados  y rural disperso,52.2,94
+Guainía,2022,Total,46.5,94
+Guainía,2023,Cabeceras,46.4,94
+Guainía,2023,Centros poblados  y rural disperso,57.0,94
+Guainía,2023,Total,52.1,94
+Guainía,2024,Cabeceras,40.1,94
+Guainía,2024,Centros poblados  y rural disperso,56.9,94
+Guainía,2024,Total,49.0,94
+Guainía,2025,Cabeceras,36.7,94
+Guainía,2025,Centros poblados  y rural disperso,65.4,94
+Guainía,2025,Total,51.8,94
+Guaviare,2018,Cabeceras,22.8,95
+Guaviare,2018,Centros poblados  y rural disperso,42.1,95
+Guaviare,2018,Total,31.4,95
+Guaviare,2019,Cabeceras,26.5,95
+Guaviare,2019,Centros poblados  y rural disperso,36.7,95
+Guaviare,2019,Total,30.9,95
+Guaviare,2020,Cabeceras,27.5,95
+Guaviare,2020,Centros poblados  y rural disperso,43.8,95
+Guaviare,2020,Total,34.6,95
+Guaviare,2021,Cabeceras,24.2,95
+Guaviare,2021,Centros poblados  y rural disperso,40.0,95
+Guaviare,2021,Total,31.0,95
+Guaviare,2022,Cabeceras,21.7,95
+Guaviare,2022,Centros poblados  y rural disperso,33.7,95
+Guaviare,2022,Total,26.9,95
+Guaviare,2023,Cabeceras,18.5,95
+Guaviare,2023,Centros poblados  y rural disperso,46.5,95
+Guaviare,2023,Total,30.6,95
+Guaviare,2024,Cabeceras,17.5,95
+Guaviare,2024,Centros poblados  y rural disperso,26.3,95
+Guaviare,2024,Total,21.3,95
+Guaviare,2025,Cabeceras,15.2,95
+Guaviare,2025,Centros poblados  y rural disperso,26.5,95
+Guaviare,2025,Total,20.0,95
+Vaupés,2018,Cabeceras,27.4,97
+Vaupés,2018,Centros poblados  y rural disperso,82.9,97
+Vaupés,2018,Total,68.5,97
+Vaupés,2019,Cabeceras,25.4,97
+Vaupés,2019,Centros poblados  y rural disperso,80.1,97
+Vaupés,2019,Total,66.5,97
+Vaupés,2020,Cabeceras,26.8,97
+Vaupés,2020,Centros poblados  y rural disperso,81.3,97
+Vaupés,2020,Total,65.6,97
+Vaupés,2021,Cabeceras,22.3,97
+Vaupés,2021,Centros poblados  y rural disperso,64.8,97
+Vaupés,2021,Total,52.7,97
+Vaupés,2022,Cabeceras,15.0,97
+Vaupés,2022,Centros poblados  y rural disperso,59.7,97
+Vaupés,2022,Total,47.1,97
+Vaupés,2023,Cabeceras,16.6,97
+Vaupés,2023,Centros poblados  y rural disperso,70.9,97
+Vaupés,2023,Total,55.7,97
+Vaupés,2024,Cabeceras,16.2,97
+Vaupés,2024,Centros poblados  y rural disperso,45.5,97
+Vaupés,2024,Total,37.4,97
+Vaupés,2025,Cabeceras,12.7,97
+Vaupés,2025,Centros poblados  y rural disperso,52.6,97
+Vaupés,2025,Total,41.7,97
+Vichada,2018,Cabeceras,33.7,99
+Vichada,2018,Centros poblados  y rural disperso,73.0,99
+Vichada,2018,Total,63.5,99
+Vichada,2019,Cabeceras,35.7,99
+Vichada,2019,Centros poblados  y rural disperso,84.0,99
+Vichada,2019,Total,72.2,99
+Vichada,2020,Cabeceras,46.6,99
+Vichada,2020,Centros poblados  y rural disperso,85.1,99
+Vichada,2020,Total,75.6,99
+Vichada,2021,Cabeceras,38.3,99
+Vichada,2021,Centros poblados  y rural disperso,73.4,99
+Vichada,2021,Total,64.8,99
+Vichada,2022,Cabeceras,36.1,99
+Vichada,2022,Centros poblados  y rural disperso,87.9,99
+Vichada,2022,Total,75.4,99
+Vichada,2023,Cabeceras,33.6,99
+Vichada,2023,Centros poblados  y rural disperso,75.4,99
+Vichada,2023,Total,65.4,99
+Vichada,2024,Cabeceras,30.0,99
+Vichada,2024,Centros poblados  y rural disperso,82.7,99
+Vichada,2024,Total,70.2,99
+Vichada,2025,Cabeceras,28.8,99
+Vichada,2025,Centros poblados  y rural disperso,63.3,99
+Vichada,2025,Total,55.2,99
+San Andrés,2018,Cabeceras,8.5,
+San Andrés,2018,Total,8.5,
+San Andrés,2019,Cabeceras,8.2,
+San Andrés,2019,Total,8.2,
+San Andrés,2020,Cabeceras,11.9,
+San Andrés,2020,Total,11.9,
+San Andrés,2021,Cabeceras,7.0,
+San Andrés,2021,Total,7.0,
+San Andrés,2022,Cabeceras,8.8,
+San Andrés,2022,Total,8.8,
+San Andrés,2023,Cabeceras,5.0,
+San Andrés,2023,Total,5.0,
+San Andrés,2024,Cabeceras,6.0,
+San Andrés,2024,Total,6.0,
+San Andrés,2025,Cabeceras,4.3,
+San Andrés,2025,Total,4.3,

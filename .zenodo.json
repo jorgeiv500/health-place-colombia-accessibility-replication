@@ -1,0 +1,28 @@
+{
+  "title": "Potential accessibility to mental-health services in Colombia: territorial screening with public data",
+  "upload_type": "dataset",
+  "description": "Replication package for a reproducible municipal public-data screening workflow of potential accessibility to mental-health services in Colombia. The package contains scripts, derived aggregate data, spatial accessibility outputs, and final tables and figures. The accessibility surface uses a centroid-based travel-time proxy; OSRM-routed travel times were not used.",
+  "creators": [
+    {
+      "name": "Romero-Gelvez, Jorge Iván",
+      "affiliation": "Universidad de Bogotá Jorge Tadeo Lozano",
+      "orcid": "0000-0002-5335-0819"
+    },
+    {
+      "name": "Contreras Gamboa, Mariana Angélica",
+      "affiliation": "Universidad de Bogotá Jorge Tadeo Lozano"
+    }
+  ],
+  "keywords": [
+    "mental health",
+    "spatial accessibility",
+    "Colombia",
+    "E2SFCA",
+    "public data",
+    "territorial screening"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "related_identifiers": [],
+  "communities": []
+}

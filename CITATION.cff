@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite it using the metadata below."
+title: "Potential accessibility to mental-health services in Colombia: territorial screening with public data"
+version: "0.1.0"
+date-released: "2026-06-02"
+authors:
+  - family-names: "Romero-Gelvez"
+    given-names: "Jorge Iván"
+    orcid: "https://orcid.org/0000-0002-5335-0819"
+  - family-names: "Contreras Gamboa"
+    given-names: "Mariana Angélica"
+abstract: "Replication package for a reproducible municipal public-data screening workflow of potential accessibility to mental-health services in Colombia."
+keywords:
+  - mental health
+  - spatial accessibility
+  - Colombia
+  - E2SFCA
+  - public data
+  - territorial screening
+license: "CC-BY-4.0"

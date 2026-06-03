@@ -1,0 +1,12 @@
+item,value,source_or_note
+Municipality-year panel rows,5615,Derived
+Municipalities in panel,1123,Derived
+Municipalities with non-missing spatial gap in 2024,1122,Derived
+Municipality-month seed rows,67380,Derived
+REPS source rows,76821,Raw public extract
+RIPS mental-health source rows,517546,Raw public extract
+SIVIGILA municipality-year rows,4119,Derived
+SaluData Bogota rows,254251,Raw public extract
+MGN municipality features,1122,Raw public geometry
+Proxy OD pairs,129544,Derived; 240-min threshold plus nearest supply nodes
+Routing mode,great_circle_detour_proxy_osrm_installed_not_prepared,Environment

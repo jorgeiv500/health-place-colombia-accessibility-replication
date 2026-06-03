@@ -1,0 +1,300 @@
+year,codigo_localidad,localidad_residencia,saludata_conducta_total,saludata_intento_suicidio,saludata_ideacion_suicida
+2012,1,Usaquén,210,143,67
+2012,2,Chapinero,90,82,8
+2012,3,Santa Fe,66,33,33
+2012,4,San Cristóbal,186,102,84
+2012,5,Usme,217,123,94
+2012,6,Tunjuelito,103,49,54
+2012,7,Bosa,415,219,196
+2012,8,Kennedy,288,180,108
+2012,9,Fontibón,274,105,169
+2012,10,Engativá,325,151,174
+2012,11,Suba,380,172,208
+2012,12,Barrios Unidos,84,76,8
+2012,13,Teusaquillo,51,49,2
+2012,14,Los Mártires,62,31,31
+2012,15,Antonio Nariño,40,24,16
+2012,16,Puente Aranda,77,52,25
+2012,17,La Candelaria,5,4,1
+2012,18,Rafael Uribe Uribe,264,116,148
+2012,19,Ciudad Bolívar,460,214,246
+2012,20,Sumapaz,7,5,2
+2013,1,Usaquén,212,132,80
+2013,2,Chapinero,87,27,60
+2013,3,Santa Fe,90,48,42
+2013,4,San Cristóbal,271,131,140
+2013,5,Usme,440,172,268
+2013,6,Tunjuelito,187,67,120
+2013,7,Bosa,655,252,403
+2013,8,Kennedy,508,268,240
+2013,9,Fontibón,279,87,192
+2013,10,Engativá,348,153,195
+2013,11,Suba,434,242,192
+2013,12,Barrios Unidos,82,34,48
+2013,13,Teusaquillo,82,40,42
+2013,14,Los Mártires,79,42,37
+2013,15,Antonio Nariño,54,18,36
+2013,16,Puente Aranda,136,74,62
+2013,17,La Candelaria,16,9,7
+2013,18,Rafael Uribe Uribe,334,115,219
+2013,19,Ciudad Bolívar,665,273,392
+2013,20,Sumapaz,24,4,20
+2014,1,Usaquén,286,175,111
+2014,2,Chapinero,116,74,42
+2014,3,Santa Fe,137,59,78
+2014,4,San Cristóbal,545,192,353
+2014,5,Usme,703,286,417
+2014,6,Tunjuelito,313,140,173
+2014,7,Bosa,896,335,561
+2014,8,Kennedy,627,352,275
+2014,9,Fontibón,452,179,273
+2014,10,Engativá,562,195,367
+2014,11,Suba,617,305,312
+2014,12,Barrios Unidos,161,96,65
+2014,13,Teusaquillo,117,79,38
+2014,14,Los Mártires,123,54,69
+2014,15,Antonio Nariño,113,44,69
+2014,16,Puente Aranda,122,67,55
+2014,17,La Candelaria,42,23,19
+2014,18,Rafael Uribe Uribe,484,201,283
+2014,19,Ciudad Bolívar,815,385,430
+2014,20,Sumapaz,29,5,24
+2015,1,Usaquén,334,207,127
+2015,2,Chapinero,126,75,51
+2015,3,Santa Fe,137,76,61
+2015,4,San Cristóbal,564,211,353
+2015,5,Usme,620,229,391
+2015,6,Tunjuelito,353,166,187
+2015,7,Bosa,946,448,498
+2015,8,Kennedy,868,441,427
+2015,9,Fontibón,474,191,283
+2015,10,Engativá,585,112,473
+2015,11,Suba,825,389,436
+2015,12,Barrios Unidos,156,96,60
+2015,13,Teusaquillo,98,63,35
+2015,14,Los Mártires,141,73,68
+2015,15,Antonio Nariño,137,57,80
+2015,16,Puente Aranda,190,81,109
+2015,17,La Candelaria,32,14,18
+2015,18,Rafael Uribe Uribe,703,287,416
+2015,19,Ciudad Bolívar,1224,524,700
+2015,20,Sumapaz,17,2,15
+2016,1,Usaquén,308,170,138
+2016,2,Chapinero,96,48,48
+2016,3,Santa Fe,87,43,44
+2016,4,San Cristóbal,433,156,277
+2016,5,Usme,715,244,471
+2016,6,Tunjuelito,255,84,171
+2016,7,Bosa,792,354,438
+2016,8,Kennedy,750,253,497
+2016,9,Fontibón,549,126,423
+2016,10,Engativá,601,224,377
+2016,11,Suba,955,383,572
+2016,12,Barrios Unidos,132,72,60
+2016,13,Teusaquillo,97,44,53
+2016,14,Los Mártires,115,52,63
+2016,15,Antonio Nariño,91,33,58
+2016,16,Puente Aranda,179,74,105
+2016,17,La Candelaria,18,10,8
+2016,18,Rafael Uribe Uribe,561,206,355
+2016,19,Ciudad Bolívar,1273,443,830
+2016,20,Sumapaz,22,3,19
+2017,1,Usaquén,386,223,163
+2017,2,Chapinero,129,68,61
+2017,3,Santa Fe,153,73,80
+2017,4,San Cristóbal,443,201,242
+2017,5,Usme,769,294,475
+2017,6,Tunjuelito,365,161,204
+2017,7,Bosa,1266,439,827
+2017,8,Kennedy,1255,515,740
+2017,9,Fontibón,580,232,348
+2017,10,Engativá,769,383,386
+2017,11,Suba,832,530,302
+2017,12,Barrios Unidos,212,98,114
+2017,13,Teusaquillo,160,97,63
+2017,14,Los Mártires,136,71,65
+2017,15,Antonio Nariño,112,60,52
+2017,16,Puente Aranda,343,165,178
+2017,17,La Candelaria,29,15,14
+2017,18,Rafael Uribe Uribe,538,178,360
+2017,19,Ciudad Bolívar,1267,534,733
+2017,20,Sumapaz,13,3,10
+2018,1,Usaquén,539,226,313
+2018,2,Chapinero,165,64,101
+2018,3,Santa Fe,200,81,119
+2018,4,San Cristóbal,662,241,421
+2018,5,Usme,991,224,767
+2018,6,Tunjuelito,459,117,342
+2018,7,Bosa,1447,354,1093
+2018,8,Kennedy,1692,502,1190
+2018,9,Fontibón,613,175,438
+2018,10,Engativá,965,319,646
+2018,11,Suba,1016,383,633
+2018,12,Barrios Unidos,246,64,182
+2018,13,Teusaquillo,219,77,142
+2018,14,Los Mártires,135,57,78
+2018,15,Antonio Nariño,177,69,108
+2018,16,Puente Aranda,428,119,309
+2018,17,La Candelaria,37,22,15
+2018,18,Rafael Uribe Uribe,731,222,509
+2018,19,Ciudad Bolívar,1383,383,1000
+2018,20,Sumapaz,25,2,23
+2019,1,Usaquén,470,150,320
+2019,2,Chapinero,193,62,131
+2019,3,Santa Fe,295,97,198
+2019,4,San Cristóbal,953,385,568
+2019,5,Usme,1128,327,801
+2019,6,Tunjuelito,565,144,421
+2019,7,Bosa,1859,319,1540
+2019,8,Kennedy,2019,517,1502
+2019,9,Fontibón,736,169,567
+2019,10,Engativá,1000,219,781
+2019,11,Suba,1166,311,855
+2019,12,Barrios Unidos,166,43,123
+2019,13,Teusaquillo,226,52,174
+2019,14,Los Mártires,204,65,139
+2019,15,Antonio Nariño,182,57,125
+2019,16,Puente Aranda,537,137,400
+2019,17,La Candelaria,61,18,43
+2019,18,Rafael Uribe Uribe,814,242,572
+2019,19,Ciudad Bolívar,1688,455,1233
+2019,20,Sumapaz,29,3,26
+2020,1,Usaquén,643,177,466
+2020,2,Chapinero,194,55,139
+2020,3,Santa Fe,250,79,171
+2020,4,San Cristóbal,758,279,479
+2020,5,Usme,902,296,606
+2020,6,Tunjuelito,482,144,338
+2020,7,Bosa,1657,396,1261
+2020,8,Kennedy,2151,551,1600
+2020,9,Fontibón,820,220,600
+2020,10,Engativá,1192,332,860
+2020,11,Suba,1706,484,1222
+2020,12,Barrios Unidos,198,52,146
+2020,13,Teusaquillo,297,67,230
+2020,14,Los Mártires,201,56,145
+2020,15,Antonio Nariño,174,58,116
+2020,16,Puente Aranda,547,152,395
+2020,17,La Candelaria,63,25,38
+2020,18,Rafael Uribe Uribe,694,226,468
+2020,19,Ciudad Bolívar,1296,360,936
+2020,20,Sumapaz,15,2,13
+2021,1,Usaquén,1276,460,816
+2021,2,Chapinero,349,128,221
+2021,3,Santa Fe,340,115,225
+2021,4,San Cristóbal,1092,318,774
+2021,5,Usme,1102,312,790
+2021,6,Tunjuelito,612,174,438
+2021,7,Bosa,2209,524,1685
+2021,8,Kennedy,2953,675,2278
+2021,9,Fontibón,1111,235,876
+2021,10,Engativá,2075,608,1467
+2021,11,Suba,3047,979,2068
+2021,12,Barrios Unidos,355,105,250
+2021,13,Teusaquillo,557,158,399
+2021,14,Los Mártires,273,77,196
+2021,15,Antonio Nariño,257,64,193
+2021,16,Puente Aranda,718,206,512
+2021,17,La Candelaria,69,26,43
+2021,18,Rafael Uribe Uribe,1028,299,729
+2021,19,Ciudad Bolívar,1921,608,1313
+2021,20,Sumapaz,14,3,11
+2022,1,Usaquén,1916,591,1325
+2022,2,Chapinero,619,178,441
+2022,3,Santa Fe,716,168,548
+2022,4,San Cristóbal,1851,472,1379
+2022,5,Usme,1727,435,1292
+2022,6,Tunjuelito,794,206,588
+2022,7,Bosa,3431,784,2647
+2022,8,Kennedy,4492,1010,3482
+2022,9,Fontibón,1600,323,1277
+2022,10,Engativá,3263,843,2420
+2022,11,Suba,4480,1304,3176
+2022,12,Barrios Unidos,646,183,463
+2022,13,Teusaquillo,752,210,542
+2022,14,Los Mártires,452,106,346
+2022,15,Antonio Nariño,406,98,308
+2022,16,Puente Aranda,1112,226,886
+2022,17,La Candelaria,151,35,116
+2022,18,Rafael Uribe Uribe,1640,417,1223
+2022,19,Ciudad Bolívar,2891,743,2148
+2022,20,Sumapaz,8,0,8
+2023,1,Usaquén,1854,479,1375
+2023,2,Chapinero,622,180,442
+2023,3,Santa Fe,653,163,490
+2023,4,San Cristóbal,1922,466,1456
+2023,5,Usme,2200,476,1724
+2023,6,Tunjuelito,956,205,751
+2023,7,Bosa,3682,709,2973
+2023,8,Kennedy,5049,1015,4034
+2023,9,Fontibón,1615,276,1339
+2023,10,Engativá,3633,919,2714
+2023,11,Suba,4905,1260,3645
+2023,12,Barrios Unidos,720,187,533
+2023,13,Teusaquillo,926,238,688
+2023,14,Los Mártires,504,135,369
+2023,15,Antonio Nariño,397,83,314
+2023,16,Puente Aranda,1178,220,958
+2023,17,La Candelaria,157,30,127
+2023,18,Rafael Uribe Uribe,1778,429,1349
+2023,19,Ciudad Bolívar,3470,737,2733
+2023,20,Sumapaz,18,1,17
+2024,1,Usaquén,2164,513,1651
+2024,2,Chapinero,794,192,602
+2024,3,Santa Fe,693,169,524
+2024,4,San Cristóbal,1998,409,1589
+2024,5,Usme,2069,486,1583
+2024,6,Tunjuelito,882,165,717
+2024,7,Bosa,4018,850,3168
+2024,8,Kennedy,5428,1081,4347
+2024,9,Fontibón,1753,274,1479
+2024,10,Engativá,3984,976,3008
+2024,11,Suba,5559,1383,4176
+2024,12,Barrios Unidos,831,215,616
+2024,13,Teusaquillo,1009,267,742
+2024,14,Los Mártires,509,118,391
+2024,15,Antonio Nariño,405,85,320
+2024,16,Puente Aranda,1374,246,1128
+2024,17,La Candelaria,146,29,117
+2024,18,Rafael Uribe Uribe,1819,440,1379
+2024,19,Ciudad Bolívar,3300,659,2641
+2024,20,Sumapaz,17,5,12
+2025,1,Usaquén,2165,508,1657
+2025,2,Chapinero,667,170,497
+2025,3,Santa Fe,682,130,552
+2025,4,San Cristóbal,2005,378,1627
+2025,5,Usme,2255,410,1845
+2025,6,Tunjuelito,1030,205,825
+2025,7,Bosa,3829,764,3065
+2025,8,Kennedy,5269,972,4297
+2025,9,Fontibón,1869,290,1579
+2025,10,Engativá,3557,797,2760
+2025,11,Suba,4990,1165,3825
+2025,12,Barrios Unidos,662,141,521
+2025,13,Teusaquillo,897,198,699
+2025,14,Los Mártires,589,134,455
+2025,15,Antonio Nariño,461,91,370
+2025,16,Puente Aranda,1420,236,1184
+2025,17,La Candelaria,167,35,132
+2025,18,Rafael Uribe Uribe,2151,425,1726
+2025,19,Ciudad Bolívar,3672,644,3028
+2025,20,Sumapaz,1,0,1
+2026,1,Usaquén,252,67,185
+2026,2,Chapinero,81,17,64
+2026,3,Santa Fe,70,17,53
+2026,4,San Cristóbal,172,43,129
+2026,5,Usme,182,50,132
+2026,6,Tunjuelito,118,25,93
+2026,7,Bosa,389,92,297
+2026,8,Kennedy,458,109,349
+2026,9,Fontibón,190,44,146
+2026,10,Engativá,360,78,282
+2026,11,Suba,507,139,368
+2026,12,Barrios Unidos,73,17,56
+2026,13,Teusaquillo,92,21,71
+2026,14,Los Mártires,48,13,35
+2026,15,Antonio Nariño,38,9,29
+2026,16,Puente Aranda,117,24,93
+2026,17,La Candelaria,14,5,9
+2026,18,Rafael Uribe Uribe,173,42,131
+2026,19,Ciudad Bolívar,301,68,233

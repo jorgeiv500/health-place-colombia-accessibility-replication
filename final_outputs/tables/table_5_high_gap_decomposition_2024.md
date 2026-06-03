@@ -1,0 +1,20 @@
+| variable | statistic | group | value |
+| --- | --- | --- | --- |
+| Population | median | Other municipalities | 13876.0 |
+| Population | median | Top decile gap | 12664.0 |
+| IPM pct | mean | Other municipalities | 11.549355 |
+| IPM pct | mean | Top decile gap | 27.541593 |
+| Attempted-suicide notifications per 100k | median | Other municipalities | 52.482943 |
+| Attempted-suicide notifications per 100k | median | Top decile gap | 60.851927 |
+| REPS sites | median | Other municipalities | 6.0 |
+| REPS sites | median | Top decile gap | 4.0 |
+| REPS IPS sites | median | Other municipalities | 2.0 |
+| REPS IPS sites | median | Top decile gap | 3.0 |
+| E2SFCA 120-min accessibility | median | Other municipalities | 0.00082 |
+| E2SFCA 120-min accessibility | median | Top decile gap | 0.000452 |
+| Need score z | mean | Other municipalities | -0.124045 |
+| Need score z | mean | Top decile gap | 1.091604 |
+| Access score z | mean | Other municipalities | 0.085086 |
+| Access score z | mean | Top decile gap | -0.759747 |
+| Spatial gap z | mean | Other municipalities | -0.209131 |
+| Spatial gap z | mean | Top decile gap | 1.851351 |

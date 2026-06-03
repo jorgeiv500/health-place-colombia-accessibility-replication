@@ -1,0 +1,2 @@
+cod_dpto,departamento,cod_mpio,municipio,departamento_mgn,municipio_mgn,municipio_tipo_mgn,area_km2_mgn_attribute,area_km2_calc,centroid_lat,centroid_lon,sedes_reps,prestadores_reps,reps_rows,sedes_ips_reps,sedes_publicas_reps,sedes_privadas_reps,fecha_corte_reps,has_mgn_centroid,has_reps_supply
+94,Guainía,94663,Mapiripana (ANM),,,,,,,,0.0,0.0,,0.0,0.0,0.0,,False,False

@@ -1,0 +1,46 @@
+[
+  {
+    "source_id": "reps_capacidad_instalada_minsalud",
+    "status": "ok",
+    "local_path": "minsalud_reps/reporte_consolidado_departamento_naturaleza_ano_capacidad.zip",
+    "bytes": 44763,
+    "sha256": "550d12766d047ea85344a73e5c18e8b6faba94117d704c008db077158f912a11",
+    "content_type": "application/x-zip-compressed",
+    "final_url": "https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PSA/reporte-consolidado-departamento-naturaleza-ano-capacidad.zip",
+    "error": "",
+    "repaired_at": "2026-05-29T19:52:06-0500"
+  },
+  {
+    "source_id": "saludata_morbilidad_salud_mental_ficha",
+    "status": "ok",
+    "local_path": "saludata_bogota/ficha_tecnica_morbilidad_atendida_salud_mental.pdf",
+    "bytes": 278020,
+    "sha256": "42d62efcb3c360e9661fa74e8818355916bc156ffc3cffbccefc528b503970d2",
+    "content_type": "application/pdf",
+    "final_url": "https://saludata.saludcapital.gov.co/osb/wp-content/uploads/2024/09/2023_12_14_Ficha_Tec_Morbilidad_atendida_Salud-Mental_Tablero-v1-1.pdf",
+    "error": "",
+    "repaired_at": "2026-05-29T19:52:07-0500"
+  },
+  {
+    "source_id": "aerocivil_trafico_origen_destino_gb6w_ynu4",
+    "status": "ok",
+    "local_path": "aerocivil/trafico_origen_destino_gb6w_ynu4.csv",
+    "bytes": 72696425,
+    "sha256": "24f96ac935e52810c19e058105218de247f8f872cb259e4f79c81046573b7560",
+    "content_type": "text/csv",
+    "final_url": "paged Socrata rid gb6w-ynu4; rows=455787",
+    "error": "",
+    "repaired_at": "2026-05-29T19:54:06-0500"
+  },
+  {
+    "source_id": "dane_mgn_municipio_2025_geojson",
+    "status": "ok",
+    "local_path": "dane/MGN2025_municipio_317.geojson",
+    "bytes": 256093934,
+    "sha256": "3f262f024000fb8a4d9f091aca29136f4beb14beb9cf9d980c4e882926caa558",
+    "content_type": "application/geo+json",
+    "final_url": "ArcGIS objectIds batched query; features=1122",
+    "error": "",
+    "repaired_at": "2026-05-29T19:55:48-0500"
+  }
+]
